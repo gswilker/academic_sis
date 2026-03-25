@@ -1,1 +1,1 @@
-# academic_sis
+# academic_system
